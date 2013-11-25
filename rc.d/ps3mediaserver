@@ -1,0 +1,4 @@
+#!/bin/sh
+# Start up PS3 media server on boot
+
+sudo -u pms /var/pms/PMS.sh
